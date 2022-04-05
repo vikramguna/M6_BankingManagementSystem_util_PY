@@ -15,18 +15,14 @@
 |Test Id  | Modules | Description |
 |--|--|--|
 | LLR1 |Account details| Account, employee, transaction and other details can be viewed |
-|       |Employee Record| Employee details can be viewed                               |                                   
-|       |Transaction| Transaction details can be viewed                                 | 
-|       |Loan Details|loan details can be viewed                                            |
-|        |About the system | Details of system can be viewed                               |
+|       |Employee Record| Employee details can be viewed |                                   
+|       |Transaction| Transaction details can be viewed  |     
 | LLR2 |Account ID|Account details can be viewed|
-|       |Account name|Owner of the account can be viewed                                                                    |
-|       |Data information|  Information regarding data can be viewed                                                              |
-|      |Modify/delete/create account|Edit can be made                                                    |
-| LLR3 |Employee record|Details regarding employee is shown|                                |
-|       |Employee data| Data of employee can be seen                                                                  |
-|      |Salary info|  Salary info is shown only to authorized persons                                                                     |
-| LLR4 |Transaction| Final page containing all the transaction details|
-|      |Balance data|  Data balance is shown                                                                    |
-|      |Withdraw/Deposite| Activities can be tracked                                                                 |
-|      |Amount|  Amount details can be seen                                                                        |
+|       |Account name|Owner of the account can be viewed  |
+|       |Data information|  Information regarding data can be viewed  |     
+| LLR3 |Employee record|Employee details can be viewed|                                |
+|       |Employee data| Data of employee can be seen|
+|      |Salary info|  Information regarding salary can be viewed|
+| LLR4 |Transaction| Transactions can be viewed|
+|      |Balance data|  Data balance can be viewed |
+|      |Amount|  Amount details can be viewed  |
