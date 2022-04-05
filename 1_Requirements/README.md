@@ -2,6 +2,8 @@
  The Bank Account Management System is an application for maintaining a person's account in a bank.The working of a banking account system and cover the basic functionality of a Bank Account Management System. To develop a project for solving financial applications of a customer in banking environment in order to nurture the needs of an end banking user by providing various ways to perform banking tasks
 
 ## SWOT ANALYSIS
+![Copy of SWOT Free Presentation Template](https://user-images.githubusercontent.com/53256465/161677291-44650122-3a0f-4761-8cb9-5f14deb0325b.jpg)
+
 
 
 ## HIGH LEVEL REQUIREMENTS
