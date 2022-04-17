@@ -33,3 +33,4 @@
 ## Architecture
 # ER DIAGRAM
 ![WhatsApp Image 2022-04-17 at 12 17 06 AM](https://user-images.githubusercontent.com/53256465/163702008-23e3e5e9-0b7e-47d8-b278-2b9f8538618f.jpeg)
+
