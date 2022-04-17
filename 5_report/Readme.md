@@ -33,4 +33,6 @@
 ## Architecture
 # ER DIAGRAM
 ![WhatsApp Image 2022-04-17 at 12 17 06 AM](https://user-images.githubusercontent.com/53256465/163702008-23e3e5e9-0b7e-47d8-b278-2b9f8538618f.jpeg)
+# USE CASE DIAGRAM
+![WhatsApp Image 2022-04-16 at 11 45 40 PM](https://user-images.githubusercontent.com/53256465/163702101-f1c6aa7a-76c3-44dd-93a6-6cf2266c8f7d.jpeg)
 
